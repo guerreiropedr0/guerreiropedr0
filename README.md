@@ -22,6 +22,4 @@ I learned HTML/CSS and JavaScript. I enjoy listening to music, play videogames a
 
 <a href="https://twitter.com/guerreiropedr0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 
-<a href=”https://www.linkedin.com/in/guerreiropedr0/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
+<a href="https://www.linkedin.com/in/guerreiropedr0/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>&nbsp;

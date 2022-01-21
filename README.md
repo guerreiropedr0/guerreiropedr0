@@ -29,4 +29,4 @@ I learned HTML/CSS and JavaScript. I enjoy listening to music, play videogames a
 </p>
 <br />
 
-https://github-readme-stats.vercel.app/api?username={guerreiropedr0}
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=guerreiropedr0&count_private=true&show_icons=true&theme=slateorange)](https://github.com/guerreiropedr0/github-readme-stats)

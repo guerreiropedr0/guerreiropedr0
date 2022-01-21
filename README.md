@@ -28,3 +28,5 @@ I learned HTML/CSS and JavaScript. I enjoy listening to music, play videogames a
 <a href="https://www.hackerrank.com/guerreiropedr0?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp;
 </p>
 <br />
+
+https://github-readme-stats.vercel.app/api?username={guerreiropedr0}

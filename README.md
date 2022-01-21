@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./images/banner.png" alt="Banner with my name and description">
+<img src="./images/banner2.png" alt="Banner with my name and description">
 I'm a full-stack development student currently enrolled in Micorverse, an online software development school that uses pair-programming and real-world projects to teach development.
 I learned HTML/CSS and JavaScript. I enjoy listening to music, play videogames and code. My goal this year is to finish Microverse program and land a job.
 

@@ -1,9 +1,9 @@
 ### Hello! I'm Pedro 👋
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <p>Hello! My name is Pedro Guerreiro, I'm a full-stack web developer. I began my journey at Microverse an online software development school that uses pair-programming and real-world projects to teach development.
-  I enjoy listening to music, play videogames (A LOT!) and code.</p>
-  <img style="height: 256px;" src="./images/avatar.png" alt="Pedro avatar">
-</div>
+
+<img style="height: 256px;" src="./images/avatar.png" align="right" alt="Pedro avatar">
+Hello! My name is Pedro Guerreiro, I'm a full-stack web developer. I began my journey at Microverse an online software development school that uses pair-programming and real-world projects to teach development.
+I enjoy listening to music, play videogames (A LOT!) and code.
+
 
 ## :bulb: Skills:
 <div style="display: flex; flex-wrap: wrap;">

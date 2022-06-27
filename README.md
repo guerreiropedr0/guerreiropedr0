@@ -4,6 +4,7 @@ Hello! My name is Pedro Guerreiro, I'm a full-stack web developer. I began my jo
 I enjoy listening to music, play videogames (A LOT!) and code.
 
 ## :bulb: Skills:
+<div style="display: flex; flex-wrap: wrap;">
 <img style="width: 48px; height: 48px;" src="./images/icons/html.png" alt="HTML icon">
 <img style="width: 48px; height: 48px;" src="./images/icons/css.png" alt="CSS icon">
 <img style="width: 48px; height: 48px;" src="./images/icons/javascript.png" alt="JavaScript icon">
@@ -15,7 +16,7 @@ I enjoy listening to music, play videogames (A LOT!) and code.
 <img style="width: 48px; height: 48px;" src="./images/icons/rspec.png" alt="Rspec icon">
 <img style="width: 48px; height: 48px;" src="./images/icons/jest.png" alt="Jest icon">
 <img style="width: 48px; height: 48px;" src="./images/icons/bootstrap.png" alt="Bootstrap icon">
-
+</div>
 
 ## 🌎 Find me around the web:
 
